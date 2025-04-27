@@ -1,0 +1,12 @@
+{
+    "name": "ddnet-like-platformer",
+    "version": "1.0.0",
+    "description": "A simple multiplayer platformer game",
+    "main": "core.js",
+    "scripts": {
+        "start": "node core.js"
+    },
+    "dependencies": {
+        "ws": "^8.13.0"
+    }
+} 

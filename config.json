@@ -1,0 +1,8 @@
+{
+    "port": 8080,
+    "tickRate": 60,
+    "playerSpeed": 5,
+    "jumpForce": 10,
+    "gravity": 0.5,
+    "maxPlayers": 16
+} 

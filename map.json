@@ -1,0 +1,79 @@
+{
+  "width": 1670,
+  "height": 847,
+  "name": "testmap",
+  "background": "#ff6f04",
+  "spawn": {
+    "x": 640,
+    "y": 384
+  },
+  "platforms": [
+    {
+      "x": 608,
+      "y": 448,
+      "width": 544,
+      "height": 32,
+      "color": "#4a4a4a",
+      "type": "default"
+    },
+    {
+      "x": 1024,
+      "y": 384,
+      "width": 128,
+      "height": 32,
+      "color": "#8b4513",
+      "type": "wood"
+    },
+    {
+      "x": 1024,
+      "y": 320,
+      "width": 128,
+      "height": 32,
+      "color": "#8b4513",
+      "type": "wood"
+    },
+    {
+      "x": 1024,
+      "y": 256,
+      "width": 128,
+      "height": 32,
+      "color": "#8b4513",
+      "type": "wood"
+    },
+    {
+      "x": 576,
+      "y": 192,
+      "width": 416,
+      "height": 32,
+      "color": "#4a4a4a",
+      "type": "default"
+    },
+    {
+      "x": 1152,
+      "y": 0,
+      "width": 32,
+      "height": 480,
+      "color": "#e53935",
+      "type": "lava"
+    },
+    {
+      "x": 576,
+      "y": 224,
+      "width": 32,
+      "height": 480,
+      "color": "#e53935",
+      "type": "lava"
+    },
+    {
+      "x": 704,
+      "y": 288,
+      "width": 0,
+      "height": 0,
+      "color": "#ffd9c1",
+      "type": "text",
+      "text": "тест мапа йоу",
+      "size": 36,
+      "angle": 30
+    }
+  ]
+}
